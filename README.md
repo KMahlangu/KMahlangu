@@ -1,4 +1,4 @@
-# Hi there, I'm Kitlwano Mahlangu 👋
+# Hi there, I'm Kutlwano Mahlangu 👋
 
 
 ## About Me 🚀
