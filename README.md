@@ -15,6 +15,9 @@ I'm a dedicated Police Officer and passionate Software Engineering Student with 
 ⚡ Fun fact: I can analyze both crime patterns and code patterns with equal precision!
 
 # My Skills 🧠
+C# Programming
+Data Analytics
+ASP.NET CORE MVC Development
 HTML5 and CSS
 JavaScript
 Linux Administrator
